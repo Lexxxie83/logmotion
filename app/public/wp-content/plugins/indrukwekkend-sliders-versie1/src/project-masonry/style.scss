@@ -1,0 +1,21 @@
+.wp-block-indrukwekkend-project-masonry {
+    margin-bottom: 25px;
+
+    .column {
+        img {
+            height: auto;
+        }
+    }
+
+    .row {
+        img {
+            height: 100%;
+        }
+    }
+}
+
+@media only screen and (max-width: 568px) {
+    .wp-block-indrukwekkend-project-masonry {
+
+    }
+}

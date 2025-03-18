@@ -1,0 +1,25 @@
+{
+    "name": "indrukwekkend/indrukwekkend-sliders",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/indrukwekkend/indrukwekkend-sliders",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "HP Hioolen",
+        "email": "hans-peter@indrukwekkend.nl",
+        "homepage": "https://indrukwekkend.nl"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.1",
+        "ext-soap": "*",
+        "wsdltophp/packagebase": "~1.0"
+    },
+    "autoload": {
+		"psr-4": {
+			"IndrukwekkendSliders\\": "phpApp/"
+		}
+	}
+}

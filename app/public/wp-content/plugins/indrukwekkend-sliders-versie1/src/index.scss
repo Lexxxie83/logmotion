@@ -1,0 +1,16 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+ * Geldt dan dus voor alle plugins in de projecten PLugin App
+ *
+ * Nog testen: Wordt dit niet per ongeluk heel vaak herhaald?
+ *
+*/
+
+// root maar 1x opnemen anders wordt het onvoorspelbaar....
+:root {
+  --grid-gap: 30px;
+  --main-button-margin: 10px 0 0 0;
+}
