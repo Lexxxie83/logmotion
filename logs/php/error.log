@@ -1285,3 +1285,4 @@ These options need to match
 [17-Mar-2025 16:12:36 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
 [17-Mar-2025 16:54:01 UTC] PHP Warning:  Array to string conversion in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/the-events-calendar/src/Tribe/Ignored_Events.php on line 193
 [18-Mar-2025 12:40:05 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[19-Mar-2025 09:21:07 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
