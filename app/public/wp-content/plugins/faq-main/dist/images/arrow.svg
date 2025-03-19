@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Pijl oranje</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Pijl-oranje" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17.7742835,24 L11.8062065,17.0851119 C11.2682832,16.465299 10.9781237,15.6310625 11.0012877,14.7708923 C11.0137409,14.0392664 11.2472688,13.3334865 11.6644074,12.7667781 L17.0423495,6 L22.1658872,6 L15.7015132,13.4055027 C15.3699534,13.766521 15.0634169,14.178452 15.0634169,14.7176652 C15.0634169,15.2568784 15.3699534,15.6942659 15.8975297,16.2612497 L23,24 L17.7742835,24 Z" id="Path" fill="#FF7900" fill-rule="nonzero" transform="translate(17.000000, 15.000000) scale(-1, 1) translate(-17.000000, -15.000000) "></path>
+        <line x1="21.5" y1="15" x2="3.5" y2="15" id="Stroke-3" stroke="#FF7900" stroke-width="3"></line>
+    </g>
+</svg>

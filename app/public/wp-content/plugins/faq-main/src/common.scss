@@ -1,0 +1,50 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+
+$fa-font-path:        "./fonts";
+
+// importeer de juiste stijlen om ze beschikbaar te maken. 
+@import "./_fontawesome/scss/fontawesome.scss";
+@import "./_fontawesome/scss/light.scss";
+@import "./_fontawesome/scss/brands.scss";
+
+
+// root maar 1x opnemen anders wordt het onvoorspelbaar....
+// gebruiken we hier (nog) niet
+:root {
+      --background-color: #f3f3f3;
+      --display-logo-wit: block ;
+      --display-logo-grijs: none;
+      --content-padding: 10px 160px 60px 60px;
+      --content-margin: -60px;
+      --content-width: 65%;
+      --afbeelding-overflow: hidden;
+      --border-container-spacing: 50px;
+      --slider-card-content-padding: 0 20px;
+  }
+
+// Colors.
+$green: #81d715;
+$red: #d50032;
+$blue: #74C6F1;
+$oranje: #ff7900;
+$paars: #ba2d8c;
+$purper: #6f368b;
+$dark-blue: #2d3676;
+$light-blue: #dbe6ef;
+$black1: #303030;
+$dark-grey: #404853;
+$grijs: #696969;
+$licht-grijs: #f1efed;
+$wit: #fff;
+
+/** Colors */
+$brand-primary:  $dark-blue;
+$brand-secondary: $dark-grey;
+$base-color: $dark-grey;
+
+// Alle CSS voor de Single POst van de medewerkers. Als er voor de Editor nog specifieke CSS geschreven moet worden, dan als hack in de "single medewerker"

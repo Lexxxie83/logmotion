@@ -1,0 +1,48 @@
+/**
+ * 1.0 Styles FAQ blokken
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.accordion-item {
+  background-color: #fff;
+  color: $base-color;
+  margin: 10px 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.25);
+
+  &-header {
+    padding: 12px 30px 11px 30px;
+    min-height: 3.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  
+    .toggler-icon {
+      position: absolute;
+      right: 20px;
+      top: 13px;
+    }
+  }
+
+  &-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+
+    &-content {
+      padding: 30px;
+      border-top: 1px solid;
+      border-image: linear-gradient(to right, transparent, $brand-primary, transparent) 1;
+    }
+  }
+}
+
+@media (min-width:768px) {
+  .accordion {
+    width: 90%;
+    max-width: 1000px;
+  }
+}

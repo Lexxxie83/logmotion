@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="603px" height="318px" viewBox="0 0 603 318" version="1.1">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Clip 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="32.3111096%" y1="50%" x2="71.3917702%" y2="50.2061881%" id="linearGradient-1">
+            <stop stop-color="#F5B304" offset="0%"/>
+            <stop stop-color="#FF7900" offset="99.9076225%"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -5232.000000)" fill="url(#linearGradient-1)">
+            <g id="Clip-2" transform="translate(0.000000, 5083.000000)">
+                <path d="M459.972208,7.02779171 L224.323943,246.185565 C174.980881,300.893248 142.936891,385.791337 142.963214,459.686709 C142.982228,516.006341 141.219498,556.557418 175.36674,609.952523 C175.36674,609.952523 270.235229,609.952523 459.972208,609.952523 C459.972208,608.61919 459.972208,407.644279 459.972208,7.02779171 Z" transform="translate(301.462366, 308.490157) rotate(90.000000) translate(-301.462366, -308.490157) "/>
+            </g>
+        </g>
+    </g>
+</svg>
