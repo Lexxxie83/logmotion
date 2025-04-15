@@ -1322,3 +1322,14 @@ These options need to match
 [19-Mar-2025 10:50:49 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
 [19-Mar-2025 11:25:28 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
 [19-Mar-2025 11:26:17 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[19-Mar-2025 12:09:32 UTC] PHP Parse error:  syntax error, unexpected token "<<" in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 326
+[19-Mar-2025 12:09:32 UTC] PHP Warning:  Trying to access array offset on false in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[19-Mar-2025 12:09:32 UTC] PHP Warning:  Trying to access array offset on false in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[19-Mar-2025 12:11:33 UTC] PHP Parse error:  syntax error, unexpected token "<<" in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 326
+[19-Mar-2025 12:37:02 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[19-Mar-2025 12:51:17 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[19-Mar-2025 16:05:57 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[20-Mar-2025 12:29:03 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[20-Mar-2025 12:29:25 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[23-Mar-2025 21:16:28 UTC] PHP Warning:  Undefined variable $activation in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-updater.php on line 119
+[24-Mar-2025 06:15:45 UTC] PHP Warning:  Undefined variable $activation in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-updater.php on line 119
