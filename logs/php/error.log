@@ -1333,3 +1333,168 @@ These options need to match
 [20-Mar-2025 12:29:25 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
 [23-Mar-2025 21:16:28 UTC] PHP Warning:  Undefined variable $activation in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-updater.php on line 119
 [24-Mar-2025 06:15:45 UTC] PHP Warning:  Undefined variable $activation in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-updater.php on line 119
+[17-Apr-2025 08:54:26 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 08:54:39 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:05:47 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:06:05 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:06:49 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:16:59 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:17:09 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:25:26 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:25:40 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 09:25:57 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[17-Apr-2025 12:17:02 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:19:16 UTC] Cron unschedule gebeurtenis fout voor hook: facetwp_indexer_cron, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":false,"args":[]}
+[17-Apr-2025 12:29:03 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:30:04 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:36:05 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:37:07 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:39:08 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:41:09 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:42:11 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 12:51:12 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 13:26:13 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 13:28:15 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Apr-2025 13:33:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "add_ajax_match_percentage_script" not found or invalid function name in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php:324
+Stack trace:
+#0 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#2 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/general-template.php(3080): do_action('wp_footer')
+#3 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-canvas.php(25): wp_footer()
+#4 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-loader.php(106): include('/Users/indrukwe...')
+#5 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-blog-header.php(19): require_once('/Users/indrukwe...')
+#6 /Users/indrukwekkend/Local Sites/logmotion/app/public/index.php(17): require('/Users/indrukwe...')
+#7 {main}
+  thrown in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php on line 324
+[18-Apr-2025 08:51:28 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 08:51:52 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:04:10 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:04:38 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:13:21 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:15:36 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:48:59 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 09:49:05 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:02:18 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:02:51 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:03:12 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:03:24 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:03:48 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:05:35 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:11:27 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:11:50 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:12:04 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:16:37 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:16:51 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:20:56 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:24:32 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:27:41 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:28:37 UTC] Cron unschedule gebeurtenis fout voor hook: facetwp_indexer_cron, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":false,"args":[]}
+[18-Apr-2025 12:39:34 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:50:33 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:51:06 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:51:29 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:52:15 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:52:27 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 12:53:59 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 13:09:03 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 13:09:23 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 13:09:37 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[18-Apr-2025 13:11:04 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 11:29:05 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 11:29:16 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:01:17 UTC] Cron reschedule gebeurtenis fout voor hook: action_scheduler_run_queue, foutcode: could_not_set, foutmelding: De lijst met cron-gebeurtenissen kon niet worden opgeslagen., gegevens: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[24-Apr-2025 13:02:02 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:02:22 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:02:52 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:03:19 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:03:30 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:03:46 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[24-Apr-2025 13:05:05 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[07-May-2025 08:20:06 UTC] PHP Warning:  Array to string conversion in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/the-events-calendar/src/Tribe/Ignored_Events.php on line 193
+[08-May-2025 08:20:48 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:20:48 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:20:48 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 236
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 236
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 236
+[08-May-2025 08:21:29 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:36 UTC] PHP Warning:  Array to string conversion in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 238
+[08-May-2025 08:21:36 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:36 UTC] PHP Warning:  Array to string conversion in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 238
+[08-May-2025 08:21:36 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:21:36 UTC] PHP Warning:  Array to string conversion in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 238
+[08-May-2025 08:21:36 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 248
+[08-May-2025 08:22:10 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:22:10 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:22:10 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:22:47 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:22:47 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:22:47 UTC] PHP Warning:  Undefined variable $begin in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 249
+[08-May-2025 08:23:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_diump() in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php:273
+Stack trace:
+#0 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php(324): {closure}('2025-10-02 08:0...', Array)
+#1 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('2025-10-02 08:0...', Array)
+#2 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(352): apply_filters('facetwp_builder...', '2025-10-02 08:0...', Array)
+#3 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(149): FacetWP_Builder->render_item(Array)
+#4 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(122): FacetWP_Builder->render_col(Array)
+#5 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(86): FacetWP_Builder->render_row(Array)
+#6 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(506): FacetWP_Builder->render_layout(Array)
+#7 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(185): FacetWP_Renderer->get_template_html()
+#8 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-display.php(107): FacetWP_Renderer->render(Array)
+#9 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(434): FacetWP_Display->shortcode(Array, '', 'facetwp')
+#10 [internal function]: do_shortcode_tag(Array)
+#11 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(facetw...', 'do_shortcode_ta...', '<!-- wp:templat...')
+#12 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/block-template.php(231): do_shortcode('<!-- wp:templat...')
+#13 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-canvas.php(12): get_the_block_template_html()
+#14 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-loader.php(106): include('/Users/indrukwe...')
+#15 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-blog-header.php(19): require_once('/Users/indrukwe...')
+#16 /Users/indrukwekkend/Local Sites/logmotion/app/public/index.php(17): require('/Users/indrukwe...')
+#17 {main}
+  thrown in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 273
+[08-May-2025 08:31:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on false in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php:243
+Stack trace:
+#0 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php(324): {closure}('2025-10-02 08:0...', Array)
+#1 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('2025-10-02 08:0...', Array)
+#2 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(352): apply_filters('facetwp_builder...', '2025-10-02 08:0...', Array)
+#3 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(149): FacetWP_Builder->render_item(Array)
+#4 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(122): FacetWP_Builder->render_col(Array)
+#5 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(86): FacetWP_Builder->render_row(Array)
+#6 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(506): FacetWP_Builder->render_layout(Array)
+#7 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(185): FacetWP_Renderer->get_template_html()
+#8 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-display.php(107): FacetWP_Renderer->render(Array)
+#9 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(434): FacetWP_Display->shortcode(Array, '', 'facetwp')
+#10 [internal function]: do_shortcode_tag(Array)
+#11 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(facetw...', 'do_shortcode_ta...', '<!-- wp:templat...')
+#12 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/block-template.php(231): do_shortcode('<!-- wp:templat...')
+#13 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-canvas.php(12): get_the_block_template_html()
+#14 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-loader.php(106): include('/Users/indrukwe...')
+#15 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-blog-header.php(19): require_once('/Users/indrukwe...')
+#16 /Users/indrukwekkend/Local Sites/logmotion/app/public/index.php(17): require('/Users/indrukwe...')
+#17 {main}
+  thrown in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 243
+[08-May-2025 08:34:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on false in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php:243
+Stack trace:
+#0 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/class-wp-hook.php(324): {closure}('2025-10-02 08:0...', Array)
+#1 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/plugin.php(205): WP_Hook->apply_filters('2025-10-02 08:0...', Array)
+#2 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(352): apply_filters('facetwp_builder...', '2025-10-02 08:0...', Array)
+#3 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(149): FacetWP_Builder->render_item(Array)
+#4 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(122): FacetWP_Builder->render_col(Array)
+#5 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-builder.php(86): FacetWP_Builder->render_row(Array)
+#6 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(506): FacetWP_Builder->render_layout(Array)
+#7 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-renderer.php(185): FacetWP_Renderer->get_template_html()
+#8 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/plugins/facetwp/includes/class-display.php(107): FacetWP_Renderer->render(Array)
+#9 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(434): FacetWP_Display->shortcode(Array, '', 'facetwp')
+#10 [internal function]: do_shortcode_tag(Array)
+#11 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(facetw...', 'do_shortcode_ta...', '<!-- wp:templat...')
+#12 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/block-template.php(231): do_shortcode('<!-- wp:templat...')
+#13 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-canvas.php(12): get_the_block_template_html()
+#14 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-includes/template-loader.php(106): include('/Users/indrukwe...')
+#15 /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-blog-header.php(19): require_once('/Users/indrukwe...')
+#16 /Users/indrukwekkend/Local Sites/logmotion/app/public/index.php(17): require('/Users/indrukwe...')
+#17 {main}
+  thrown in /Users/indrukwekkend/Local Sites/logmotion/app/public/wp-content/themes/logmotion/functions.php on line 243
+[08-May-2025 12:44:42 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[08-May-2025 12:46:13 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
+[08-May-2025 14:02:51 UTC] tribe-canonical-line channel=default level=error source="TEC\Tickets\Seating\Service\Updater::store_fetched_data" code=401
